@@ -4,6 +4,8 @@
   "description": "A simple note application",
   "main": "dist/index.js",
   "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build",
     "test": "jest"
   },
   "repository": {
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/timramsier/easy-note/issues"
   },
-  "homepage": "https://github.com/timramsier/easy-note#readme"
+  "homepage": "https://github.com/timramsier/easy-note#readme",
+  "devDependencies": {
+    "docz": "^0.11.0"
+  }
 }
