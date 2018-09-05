@@ -1,0 +1,19 @@
+{
+  "name": "easy-note",
+  "version": "0.0.1",
+  "description": "A simple note application",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timramsier/easy-note.git"
+  },
+  "author": "Tim Ramsier <timramsier@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timramsier/easy-note/issues"
+  },
+  "homepage": "https://github.com/timramsier/easy-note#readme"
+}
